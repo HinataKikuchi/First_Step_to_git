@@ -4,7 +4,7 @@ git勉強会用レポジトリです
 
 わからないことはぜひ聞いてみてください、私も一緒に考えます(((完璧に答えられるとは言ってない)))
 
-# Caution⚠️git勉強会に伴うお願い
+# 💥Caution  git勉強会に伴うお願い💥
 
 ## __参加者の皆様はご自身の開発環境に合わせて以下の内容を事前に実行してください。__
 
@@ -20,13 +20,13 @@ URL => https://github.com/
 
 ## __2. 開発環境へのgitの導入について__
 
-## __2.1. 🪟, Windowsの方へ__
+### __2.1. 🪟 Windowsの方へ__
 
-	以下に記載されているgitの初期設定まで事前に実行をお願いします。
+以下に記載されているgitの初期設定まで事前に実行をお願いします。
 
-	https://prog-8.com/docs/git-env-win
+https://prog-8.com/docs/git-env-win
 
-## __2.2. ��🐧Mac, Wsl, Ubuntu(Linuxディストリビューション)をお使いの方へ__
+### __2.2. 🍎🐧Mac, Wsl, Ubuntu(Linuxディストリビューション)をお使いの方へ__
 
 ターミナルを開くことのできる方は以降の手順に従ってください
 
@@ -55,11 +55,33 @@ URL => https://github.com/
 
 	その場合はお手数ですが私までお問い合わせください。
 
-## __3. vscodeのインストールをお願いします__
+### __3. ◁vscodeのインストールをお願いします__
+
+vscode(Visual Studio Code)とはMicrosoftが開発しているWindows、Linux、macOS用の無料のソースコードエディタです。
+
+一番最初の導入操作として使いやすいと考え今回はvscodeによるgit操作を扱います。
 
 [vscode 公式](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
 
-[vscode Downloads](https://code.visualstudio.com/)
+## __3.1. 🪟 Windowsの方へ__
+
+1. Windowsをお使いの方は以下のURLに記載された番号7までを実行してください。
+
+	[WindowsにVisual Studio Codeをインストールする](https://qiita.com/suke_masa/items/91fddf0728a290b72fc4)
+
+## __3.2. 🍎🐧Mac, Wsl, Ubuntu(Linuxディストリビューション)をお使いの方へ__
+
+1. Macの方は以下のURLに記載された番号7までを実行してください。
+
+	URL : [MacOSでVisual Studio Codeをインストールする手順](https://qiita.com/watamura/items/51c70fbb848e5f956fd6
+)
+
+2. Linuxディストリビューションの方は以下のページを実行してください。
+
+	(Arch Linux等ご使用の方はお手数ですがご自身でvscodeの導入方法をお調べいただけますと幸いです。そのうえで不具合が生じた場合はお尋ねください。)
+
+	URL : [Ubuntu20.04 VScodeをインストールする](https://mebee.info/2020/03/18/post-7546/)
+
 
 不明点、ターミナルを開くことができない等ありましたらお気軽にお問い合わせください。
 
@@ -86,3 +108,7 @@ URL => https://github.com/
 	となっていればお使いの環境にgitが存在します。
 
 	表示されない場合でも環境変数にgitが追加されていないだけで正常にインストールされている場合があります、「あれ？」と思った場合はお気軽にお尋ねください。
+
+# 🔎自環境にvscodeがあるかを確認する方法
+
+
