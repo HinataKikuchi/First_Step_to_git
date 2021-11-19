@@ -1,6 +1,6 @@
 # 🎉First_Step_to_git
 
-研究室内でのgit勉強会用レポジトリです
+git勉強会用レポジトリです
 
 わからないことはぜひ聞いてみてください、私も一緒に考えます(((完璧に答えられるとは言ってない)))
 
@@ -20,13 +20,13 @@ URL => https://github.com/
 
 ## __2. 開発環境へのgitの導入について__
 
-## __2.1. Windowsの方へ__
+## __2.1. 🪟, Windowsの方へ__
 
 	以下に記載されているgitの初期設定まで事前に実行をお願いします。
 
 	https://prog-8.com/docs/git-env-win
 
-## __2.2. Wsl, Ubuntu(Linuxディストリビューション)をお使いの方へ__
+## __2.2. ��🐧Mac, Wsl, Ubuntu(Linuxディストリビューション)をお使いの方へ__
 
 ターミナルを開くことのできる方は以降の手順に従ってください
 
@@ -54,6 +54,12 @@ URL => https://github.com/
 	ここまでやってもgitが追加されていない場合は、パスが通っていない(インストールしたgitの場所が環境変数に追加されていない)可能性があります。
 
 	その場合はお手数ですが私までお問い合わせください。
+
+## __3. vscodeのインストールをお願いします__
+
+[vscode 公式](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
+
+[vscode Downloads](https://code.visualstudio.com/)
 
 不明点、ターミナルを開くことができない等ありましたらお気軽にお問い合わせください。
 
