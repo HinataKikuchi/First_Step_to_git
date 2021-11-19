@@ -45,7 +45,7 @@ https://prog-8.com/docs/git-env-win
 
 	ターミナル上で以下のコマンドを実行してください。
 
-	(```git -v```でバージョンが表示される方は飛ばして大丈夫です。)
+	(```git --version```でバージョンが表示される方は飛ばして大丈夫です。)
 	```sh
 	brew install git
 	```
@@ -65,7 +65,7 @@ vscode(Visual Studio Code)とはMicrosoftが開発しているWindows、Linux、
 
 ## __3.1. 🪟 Windowsの方へ__
 
-1. Windowsをお使いの方は以下のURLに記載された番号7までを実行してください。
+1. Windowsをお使いの方は以下のURLに記載された内容を最後まで実行してください。
 
 	[WindowsにVisual Studio Codeをインストールする](https://qiita.com/suke_masa/items/91fddf0728a290b72fc4)
 
@@ -111,4 +111,4 @@ vscode(Visual Studio Code)とはMicrosoftが開発しているWindows、Linux、
 
 # 🔎自環境にvscodeがあるかを確認する方法
 
-
+アプリケーションの検索欄からvscodeと入力した際に表示があればインストール済みです。
